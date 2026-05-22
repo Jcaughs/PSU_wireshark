@@ -18,6 +18,10 @@ Throughout my time at Penn State, I was fortunate enough to have professors with
   <li><b><a href="./Network%20Analysis%20via%20PCAP-1.pdf">View the PDF</a></b></li>
 </ul>
 
+<h2>Network Diagram:</h2>
+<div align="center">
+  <img src="./network-diagram.png" alt="Network Diagram" width="600">
+</div>
 <!--
  ```diff
 - text in red
