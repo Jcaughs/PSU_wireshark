@@ -20,7 +20,7 @@ Throughout my time at Penn State, I was fortunate enough to have professors with
 
 <h2>Network Diagram:</h2>
 <div align="center">
-  <img src="./image.png" alt="Network Diagram" width="800">
+  <img src="./image.png" alt="Network Diagram" width="900">
 </div>
 <!--
  ```diff
