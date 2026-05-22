@@ -14,7 +14,7 @@ Throughout my time at Penn State, I was fortunate enough to have professors with
 - <b>MacOS, Sequioa 15.2</b> (21H2)
 
 <h2>Documentation:</h2>
-[View the PDF](Network Analysis via PCAP-1.pdf)
+[View the PDF](./Network Analysis via PCAP-1.pdf)
 
 <!--
  ```diff
