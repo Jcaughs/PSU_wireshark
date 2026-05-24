@@ -1,7 +1,7 @@
 <h1>Interpreting 12M+ Packets with Only Wireshark</h1>
 
 <h2>Description</h2>
-Throughout my time at Penn State, I was fortunate enough to have professors with both private and public sector experience. A professor who was freshly out of the intelligence community showed me his go to wireshark shortcuts which consisted of a basic HTTP filter, HTTP/TCP, and HTTP/DNS. When my capstone professor presented us with this project, I was eager to use these tools I had learned from my previous network securtiy class. To save space on the .pcap size however, we were given a packet capture with only headers-- rendering the filters and shortcuts useless. This project is how went from scrolling through an endless void of packets to constructing a comprehensive and digestible network diagram.
+Throughout my time at Penn State, I was fortunate to have professors with both private- and public-sector experience. A professor who was newly out of the intelligence community showed me his go-to Wireshark shortcuts, which consisted of a basic HTTP filter, an HTTP/TCP filter, and an HTTP/DNS filter. When my capstone professor presented us with this project, I was eager to use the tools I had learned from my previous network security class. To save space in the .pcap file, however, we were given a packet capture with only headers, rendering the filters and shortcuts useless. This project shows how we went from scrolling through an endless void of packets to constructing a comprehensive, digestible network diagram.
 <br />
 
 
